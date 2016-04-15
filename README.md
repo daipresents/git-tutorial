@@ -1,8 +1,3 @@
-# git-tutorial
-a
-b
-c
-reset soft
-Add to issue1 branch
-Add to issue2 branch
-Pull from issue 2 branch
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録する
